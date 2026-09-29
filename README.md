@@ -1,6 +1,6 @@
 # AuctionSniper
 
-![Alt text](https://i.imgur.com/rvcGLVW.png?raw=true "Optional Title")
+![Alt text](https://i.imgur.com/lUaHI9c.png?raw=true "Optional Title")
 
 A small helper for the World of Warcraft Forever auction house. It watches an item you pick, pings you when something is listed cheap, and lets you buy it with one click. It shows what auctions you've sniped, as well as the average price you've scored for that session.
 
