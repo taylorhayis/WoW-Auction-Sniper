@@ -1,0 +1,9 @@
+## Interface: 11509, 16001
+## Interface-Classic: 11509, 16001
+## Title: AuctionSniper
+## Notes: Watch the selected auction-house item and buy it with one click when it drops under your price.
+## Author: Taylor
+## Version: 1.2.0
+## SavedVariables: AuctionSniperDB
+
+AuctionSniper.lua
