@@ -1,6 +1,8 @@
 # AuctionSniper
 
-A small helper for the World of Warcraft Forever auction house. It watches an item you pick, pings you when something is listed cheap, and lets you buy it with one click.
+![Alt text](https://i.imgur.com/rvcGLVW.png?raw=true "Optional Title")
+
+A small helper for the World of Warcraft Forever auction house. It watches an item you pick, pings you when something is listed cheap, and lets you buy it with one click. It shows what auctions you've sniped, as well as the average price you've scored for that session.
 
 It will not buy for you. Blizzard does not allow addons to place a buyout on their own. AuctionSniper does the watching; you still press Buy.
 
